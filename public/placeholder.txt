@@ -1,0 +1,7 @@
+Add your images to this public directory:
+- profile.jpg - Your professional photo
+- resume.pdf - Your resume PDF for download
+- Any other images you want to include
+
+These files will be accessible at the root URL (e.g., /profile.jpg)
+
